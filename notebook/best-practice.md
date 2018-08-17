@@ -27,7 +27,7 @@ flags：可选属性<br/>
 width：字符站位宽度<br/>
 .precision:小数点位数<br/>
 conversion:格式转换<br/>
-<img src="imgs/best-practice/2.png"/><br/>
+<img src="imgs/best-practice/2.png"/>
 <img src="imgs/best-practice/3.png"/><br/>
 ### 2. 金额计算
 

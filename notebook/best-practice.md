@@ -20,10 +20,15 @@ java.util.Formater.format()
 
 %[argument_index$][flags][width][.precision]conversion                    <br/>
 eg:("%4$2s %3$2s %2$2s %1$2s","a","b","c","d")-> d c b a          <br/>
-参数说明:                                                  <br/>            
-argument_index: 参数索引
-flags：可选属性
-<img src="imgs/best-practice/1.png"/>
+参数说明:                                                           <br/>
+argument_index: 参数索引<br/>
+flags：可选属性<br/>
+<img src="imgs/best-practice/1.png"/><br/>
+width：字符站位宽度<br/>
+.precision:小数点位数<br/>
+conversion:格式转换<br/>
+<img src="imgs/best-practice/2.png"/><br/>
+<img src="imgs/best-practice/3.png"/><br/>
 ### 2. 金额计算
 
 ## 集合
